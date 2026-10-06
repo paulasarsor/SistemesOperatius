@@ -1,6 +1,6 @@
 # Sistemes Operatius: laboratorios y problemas
 
-Soluciones a los laboratorios y problemas de la asignatura de Sistemas Operativos: scripts de shell (bash) y programas en C con procesos, tuberías y señales.
+Soluciones a los laboratorios y problemas de la asignatura de Sistemas Operativos I: scripts de shell (bash) y programas en C con procesos, tuberías y señales.
 
 ## Estructura
 
