@@ -1,0 +1,39 @@
+2022-05-01 12:30:45 - ERROR: No se pudo abrir el archivo
+2022-05-01 12:31:15 - WARNING: Conexión inestable detectada
+2022-05-01 12:32:00 - ERROR: Error de lectura en el sistema
+2022-05-01 12:32:30 - WARNING: Dispositivo sobrecargado
+2022-05-01 12:33:10 - ERROR: Fallo en la conexión de red
+2022-05-01 12:34:00 - ERROR: No se puede acceder al servidor
+2022-05-01 12:34:45 - WARNING: Baja memoria disponible
+2022-05-01 12:35:20 - ERROR: Acceso no autorizado detectado
+2022-05-01 12:36:05 - WARNING: Cierre inesperado de la aplicación
+2022-05-01 12:36:45 - ERROR: Pérdida de datos crítica
+2022-05-01 12:37:30 - WARNING: Problema de rendimiento identificado
+2022-05-01 12:38:15 - ERROR: Colapso del sistema
+2022-05-01 12:39:00 - WARNING: Conexión de red intermitente
+2022-05-01 12:40:00 - ERROR: Error grave en la aplicación
+2022-05-01 12:41:00 - WARNING: Problema de seguridad detectado
+2022-05-01 12:42:00 - ERROR: Pérdida de conexión con la base de datos
+2022-05-01 12:43:00 - ERROR: Falla del sistema operativo
+2022-05-01 12:44:00 - WARNING: Cierre inesperado del servicio
+2022-05-01 12:45:00 - ERROR: No se puede inicializar el servicio
+2022-05-01 12:46:00 - WARNING: Problema de hardware identificado
+2022-05-01 12:47:00 - ERROR: Error desconocido en la aplicación
+2022-05-01 12:48:00 - WARNING: Baja capacidad de almacenamiento
+2022-05-01 12:49:00 - ERROR: Fallo en la actualización del sistema
+2022-05-01 12:50:00 - WARNING: Baja velocidad de procesamiento
+2022-05-01 12:51:00 - ERROR: No se puede recuperar la información
+2022-05-01 12:52:00 - WARNING: Problema de conexión de red
+2022-05-01 12:53:00 - ERROR: Error crítico en la aplicación principal
+2022-05-01 12:54:00 - WARNING: Conexión inestable con el servidor
+2022-05-01 12:55:00 - ERROR: Pérdida total de datos
+2022-05-01 12:56:00 - WARNING: Interrupción del servicio de red
+2022-05-01 12:57:00 - ERROR: Error grave en el sistema operativo
+2022-05-01 12:58:00 - WARNING: Problema de rendimiento crítico
+2022-05-01 12:59:00 - ERROR: Colapso total del sistema
+2022-05-01 13:00:00 - WARNING: Dispositivo sobrecalentado
+2022-05-01 13:01:00 - ERROR: Falla del hardware principal
+2022-05-01 13:02:00 - WARNING: Problema de seguridad crítico
+2022-05-01 13:03:00 - ERROR: Error irreparable en la aplicación
+2022-05-01 13:04:00 - WARNING: Interrupción del servicio de almacenamiento
+2022-05-01 13:05:00 - ERROR: Fallo total del sistema operativo

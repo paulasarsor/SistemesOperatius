@@ -1,0 +1,24 @@
+# Binarios y objetos
+*.o
+*.exe
+*.out
+*.a
+labs/lab3/practica3
+labs/lab3/practica3_sigsuspend
+
+# Archivos que generan los scripts al ejecutarse
+concatenados.txt
+aux.txt
+
+# Editores y sistema
+*.swp
+*.swo
+*~
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Material de la asignatura que no es código propio
+*.zip
+*.pdf
